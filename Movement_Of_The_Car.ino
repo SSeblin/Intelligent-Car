@@ -76,12 +76,12 @@ void moveRight()
 ******************************************************************************************/
 void setup()
 {
-      pinMode(leftFront, OUTPUT);       //定义数字14 接口为输出接口
-      pinMode(leftBack, OUTPUT);       //定义数字15 接口为输出接口
-      pinMode(rightFront, OUTPUT);       //定义数字16 接口为输出接口
-      pinMode(rightBack, OUTPUT);       //定义数字17 接口为输出接口
-      pinMode(L_EN, OUTPUT);                //定义数字3 接口为输出接口
-      pinMode(R_EN, OUTPUT);                //定义数字5 接口为输出接口
+      pinMode(leftFront, OUTPUT);       // Define the number 14 interface as the output interface
+      pinMode(leftBack, OUTPUT);       // Define the number 15 interface as the output interface
+      pinMode(rightFront, OUTPUT);       // Define the number 16 interface as the output interface
+      pinMode(rightBack, OUTPUT);       // Define the number 17 interface as the output interface
+      pinMode(L_EN, OUTPUT);                //Define the number 3 interface as the output interface
+      pinMode(R_EN, OUTPUT);                //Define the number 3 interface as the output interface
 }
 
 /******************************************************************************************
