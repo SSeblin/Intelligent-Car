@@ -1,5 +1,5 @@
 /*******************************INTELLIGENT CAR ************************************
-*  EQUIPMENT: ARDUINO + L293D + Ulltra Sonic Sensor 
+*  EQUIPMENT: ARDUINO + L293D + Ultra Sonic Sensor 
 *  Author：Sebastien Seblin       
 *  Licence: Open Source
 ******************************************************************************************/
